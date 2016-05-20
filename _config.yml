@@ -1,6 +1,6 @@
 name: universal
 favicon: null
-layout_spectrum: 0.89423
+layout_spectrum: 0.53892
 typography_spectrum: 0.13742
 title: Universal Industries
 cta:
@@ -22,8 +22,8 @@ color:
     - '#f8be38'
     - '#3c2808'
     - '#815816'
-  brandStrength: 0.5625
-  lightness: 0.75
-  saturation: 0.6875
-  rhythmicContrast: 1
+  brandStrength: 0.25
+  lightness: 0.9375
+  saturation: 0.875
+  rhythmicContrast: 0.25
 purpose: []
