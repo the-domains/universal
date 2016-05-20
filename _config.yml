@@ -1,0 +1,28 @@
+name: universal
+favicon: null
+layout_spectrum: 0.8962543574161828
+typography_spectrum: 0.21433763206005096
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5254483467433602
+  lightness: 0.6772877620533109
+  saturation: 0.4418552073184401
+  rhythmicContrast: 0.7193813438061625
+purpose: []
